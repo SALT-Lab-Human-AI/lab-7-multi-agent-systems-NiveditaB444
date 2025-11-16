@@ -1,0 +1,65 @@
+================================================================================
+CrewAI Multi-Agent Travel Planning System - Real API Execution Report
+Planning a 5 days Trip to Iceland
+================================================================================
+
+Trip Details:
+  Destination: Iceland
+  Duration: 5 days
+  Dates: January 15-20, 2026
+  Departure: New York
+  Travelers: 2
+  Budget Preference: mid-range
+
+Execution Time: 2025-11-14 19:06:39.546305
+API Version: REAL API CALLS (OpenAI GPT-4)
+Data Source: Web research via OpenAI
+
+IMPORTANT NOTES:
+- All flight prices, hotel costs, attraction information, and transportation options are based on real data
+- Prices are current as of the date this was run
+- Hotel availability, transportation schedules, and prices may vary by booking date
+- Weather conditions, attraction hours, and transportation availability should be verified before travel
+
+FINAL TRAVEL PLAN REPORT:
+--------------------------------------------------------------------------------
+A comprehensive budget report for a 5-day trip to Iceland:
+
+**Flights:**
+- Icelandair: $548
+
+**Accommodation:**
+- Hotel Borg by Keahotels: $1,250 (5-night stay)
+
+**Meals:**
+- Budget: $225-375 (approximately $45-75 per day)
+- Mid-range: $450-750 (approximately $90-150 per day)
+- Luxury: $900-1500 (approximately $180-300 per day)
+
+**Activities and Entrance Fees:**
+- Budget: $200-300
+- Mid-range: $300-450
+- Luxury: $450-600
+
+**Transportation:**
+- Budget: $100-250
+- Mid-range: $250-500
+- Luxury: $500-1000
+
+**Miscellaneous Expenses:**
+- Budget: $100-200
+- Mid-range: $200-300
+- Luxury: $300-500
+
+**Total Estimated Costs:**
+- Budget: $1,775-2,525
+- Mid-range: $2,700-3,900
+- Luxury: $4,200-6,100
+
+**Cost-Saving Tips:**
+1. Book flights and hotels in advance.
+2. Pack warm clothing for the winter season.
+3. Consider purchasing a guided tour package.
+4. Try local cuisine to experience the culture.
+5. Respect Iceland's natural environment and follow guidelines for visiting national parks and protected areas.
+--------------------------------------------------------------------------------
